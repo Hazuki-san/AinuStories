@@ -64,22 +64,22 @@ define gui.name_text_font = "monties.ttf"
 define gui.interface_text_font = "Mali.ttf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 46
+define gui.text_size = 26
 
 ## The size of character names.
-define gui.name_text_size = 28
+define gui.name_text_size = 18
 
 ## The size of text in the game's user interface.
-define gui.interface_text_size = 46
+define gui.interface_text_size = 26
 
 ## The size of labels in the game's user interface.
-define gui.label_text_size = 48
+define gui.label_text_size = 28
 
 ## The size of text on the notify screen.
-define gui.notify_text_size = 36
+define gui.notify_text_size = 16
 
 ## The size of the game's title.
-define gui.title_text_size = 72
+define gui.title_text_size = 42
 
 
 ## Main and Game Menus #########################################################
@@ -201,8 +201,8 @@ define gui.navigation_button_width = 232
 define gui.radio_button_width = 220
 define gui.check_button_width = 220
 
-define gui.radio_button_text_size = 32
-define gui.check_button_text_size = 32
+define gui.radio_button_text_size = 22
+define gui.check_button_text_size = 22
 
 
 ## Choice Buttons ##############################################################
@@ -476,6 +476,3 @@ init python:
 
         gui.nvl_button_width = 1240
         gui.nvl_button_xpos = 20
-
-
-
