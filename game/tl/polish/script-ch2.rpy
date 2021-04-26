@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-25 20:05
+# TODO: Translation updated at 2021-04-25 20:05
 
 # game/script-ch2.rpy:14
 translate polish ep2_1b9f4048:
@@ -20,7 +20,7 @@ translate polish ep2_8ec6b474:
     # voice "voice/aoba/104.ogg"
     # aoba "Oh... It's morning already...?"
     voice "voice/aoba/104.ogg"
-    aoba "Oh... Juz jest ranek...?"
+    aoba "Oh... Juz ranek...?"
 
 # game/script-ch2.rpy:26
 translate polish ep2_f8b861b3:
@@ -28,7 +28,7 @@ translate polish ep2_f8b861b3:
     # voice "voice/aoba/105.ogg"
     # aoba "Guess I'm going to get some coffee then"
     voice "voice/aoba/105.ogg"
-    aoba "No to pora na swieza kawke"
+    aoba "Zgaduje, ze to czas na swieza kawke"
 
 # game/script-ch2.rpy:35
 translate polish ep2_242ef00d:
@@ -36,7 +36,7 @@ translate polish ep2_242ef00d:
     # voice "voice/aoba/106.ogg"
     # aoba "Wow, this morning... I'm so dizzy here..."
     voice "voice/aoba/106.ogg"
-    aoba "Ehh... Kreci mi sie w glowie"
+    aoba "Ehh... kreci mi sie w glowie.."
 
 # game/script-ch2.rpy:38
 translate polish ep2_4297c3d5:
@@ -96,7 +96,7 @@ translate polish ep2_c9c491d6:
     # voice "voice/aoba/112.ogg"
     # aoba "WHY ARE YOU EATING RAW FOOD FROM THE FRIDGE!?!"
     voice "voice/aoba/112.ogg"
-    aoba "CZEMU ZRESZ SUROWE ZARCIE Z LODOWKI!?"
+    aoba "CZEMU JESZ SUROWE ZARCIE Z LODOWKI!?"
 
 # game/script-ch2.rpy:77
 translate polish ep2_2376d012:
@@ -132,7 +132,7 @@ translate polish ep2_c42e1843:
     # voice "voice/aoba/115.ogg"
     # aoba "Why don't you learn how to cook?"
     voice "voice/aoba/115.ogg"
-    aoba "Czemu sie zwyczajnie nie nauczysz jak gotowac?"
+    aoba "Myslales o nauczeniu sie gotowania?"
 
 # game/script-ch2.rpy:94
 translate polish ep2_79a75ed5:
@@ -150,19 +150,19 @@ translate polish ep2_796ed033:
 translate polish ep2_98410c4d:
 
     # simon "HELL YEAH! I'M GOING TO BE THE CHEF OF THE HOUSE"
-    simon "OOO TAK! BEDE SZEFEM KUCHNI TEGO DOMU"
+    simon "OOO TAK! BEDE NAJLEPSZY W TYM DOMU"
 
 # game/script-ch2.rpy:104
 translate polish ep2_e598cbbc:
 
     # simon "I ALWAYS WANTED TO BE CHEF"
-    simon "ZAWSZE CHCIALEM NIM BYC"
+    simon "ZAWSZE CHCIALEM DOBRZE GOTOWAC"
 
 # game/script-ch2.rpy:106
 translate polish ep2_0949a675:
 
     # simon "I SAW THE CHEF COOK BEFORE NOW WATCH ME!"
-    simon "WIDZIALEM, JAK JAKIS SZEF GOTUJE. PA TERA!"
+    simon "WIDZIALEM, JAK JAKIS SZEF GOTUJE, TAKZE PA TERA!"
 
 # game/script-ch2.rpy:110
 translate polish ep2_c0e98de1:
@@ -192,7 +192,7 @@ translate polish ep2_0769528c:
     # voice "voice/aoba/118.ogg"
     # aoba "WHY ARE YOU DUMPING EVERYTHING IN THERE?!!" with vpunch
     voice "voice/aoba/118.ogg"
-    aoba "CZEMU WDUPIASZ WSZYSTKO NA RAZ?!!" with vpunch
+    aoba "CZEMU WRZUCASZ WSZYSTKO NA RAZ?!!" with vpunch
 
 # game/script-ch2.rpy:123
 translate polish ep2_d138ae3e:
@@ -200,7 +200,7 @@ translate polish ep2_d138ae3e:
     # voice "voice/aoba/119.ogg"
     # aoba "AND IS THAT MOTHERFUCKIN {color=#add8e6}{b}ICE{/b}{/color}!?" with Shake((30, 30, 30, 30), 1.75, dist=50)
     voice "voice/aoba/119.ogg"
-    aoba "CZY TO JEST PIEPRZONY" with Shake((30, 30, 30, 30), 1.75, dist=50)
+    aoba "I CZY TO JEST PIEPRZONY-" with Shake((30, 30, 30, 30), 1.75, dist=50)
 
 # game/script-ch2.rpy:128
 translate polish ep2_167010ad:
@@ -228,19 +228,19 @@ translate polish ep2_073ecec2:
     # voice "voice/aoba/121.ogg"
     # aoba "(you better not feed this to my kids)"
     voice "voice/aoba/121.ogg"
-    aoba "(Lepiej nikomu tego nie dawac)"
+    aoba "(To wyglada jak bron biologiczna)"
 
 # game/script-ch2.rpy:144
 translate polish ep2_b05b258a:
 
     # simon "I'm glad that I made my first dish"
-    simon "Ciesze sie, ze zrobilem swoje pierwsze danie"
+    simon "Jestem z siebie dumny... w koncu cos ugotowalem"
 
 # game/script-ch2.rpy:146
 translate polish ep2_1c7c0636:
 
     # simon "I'm going to taste first!"
-    simon "Sprobuje pierwszy!"
+    simon "No to sprobuje jako pierwszy!"
 
 # game/script-ch2.rpy:150
 translate polish ep2_63bc8fad:
@@ -294,7 +294,7 @@ translate polish ep2_508d906d:
     # voice "voice/aoba/124.ogg"
     # aoba "...bon appetit, eh?"
     voice "voice/aoba/124.ogg"
-    aoba "... bon appetit, co nie?"
+    aoba "...no i co, bon appetit, Simon?"
 
 # game/script-ch2.rpy:194
 translate polish ep2_91ae8f69:
@@ -302,7 +302,7 @@ translate polish ep2_91ae8f69:
     # voice "voice/aoba/125.ogg"
     # aoba "You shouldn't have done like that in the first place... Simon."
     voice "voice/aoba/125.ogg"
-    aoba "Nie powinienies byl wgl tego robic, po pierwsze... Simon"
+    aoba "Po pierwsze, nawet nie powinienes niczego dotykac... Simon"
 
 # game/script-ch2.rpy:197
 translate polish ep2_f2abbc75:
@@ -310,7 +310,7 @@ translate polish ep2_f2abbc75:
     # voice "voice/aoba/126.ogg"
     # aoba "You know that you are actually homeless... and don't know how to cook"
     voice "voice/aoba/126.ogg"
-    aoba "Wiesz, ze jestes bezdomny... i nie wiesz nic o gotowaniu"
+    aoba "Jestes bezdomny... i do tego nie wiesz jak sie gotuje"
 
 # game/script-ch2.rpy:200
 translate polish ep2_e9941839:
@@ -362,13 +362,13 @@ translate polish ep2_aa2a216d:
     # voice "voice/aoba/131.ogg"
     # aoba "We will teach you how to cook so we don't keep losing our ingredients..."
     voice "voice/aoba/131.ogg"
-    aoba "Nauczymy cie gotowac zeby nie marnowac skladnikow (przede wszystkim kawy)"
+    aoba "Nauczymy cie gotowac zeby nie marnowac skladnikow (przede wszystkim kawy).."
 
 # game/script-ch2.rpy:237
 translate polish ep2_733b1616:
 
     # simon "(wtf is with that pose...!?)"
-    simon "(co to wgl za poza...!?)"
+    simon "(co to wgl za poza...!? *wtf*)"
 
 # game/script-ch2.rpy:239
 translate polish ep2_55664fc8:
@@ -388,13 +388,13 @@ translate polish ep2_4962a303:
 translate polish ep2_1af60f0e:
 
     # aoffy "Can you add more salt, Apple?"
-    aoffy "Daj wiecej soli, Apple"
+    aoffy "Wez wsyp wiecej soli, Apple"
 
 # game/script-ch2.rpy:250
 translate polish ep2_4d1b36ee:
 
     # apple "Yeah, here you go!"
-    apple "Okej, prosze bardzo"
+    apple "Jasne, prosze!"
 
 # game/script-ch2.rpy:252
 translate polish ep2_b539c30c:
@@ -406,7 +406,7 @@ translate polish ep2_b539c30c:
 translate polish ep2_d714a317:
 
     # simon "(Wow... does cooking actually need many people like this...?)"
-    simon "(Wow... gotowanie serio potrzebuje az tylu takich ludzi...?"
+    simon "(Wow... do gotowanie serio potrzeba tylu osob?"
 
 # game/script-ch2.rpy:260
 translate polish ep2_6e0d9b58:
@@ -414,13 +414,13 @@ translate polish ep2_6e0d9b58:
     # voice "voice/aoba/133.ogg"
     # aoba "Now you just put everything in here"
     voice "voice/aoba/133.ogg"
-    aoba "Teraz wrzuc tam wszystko"
+    aoba "Teraz wrzuc wszystko do garnka"
 
 # game/script-ch2.rpy:263
 translate polish ep2_b929a970:
 
     # simon "Okay, there..."
-    simon "Okej, ziuum"
+    simon "Okej, ziuum...."
 
 # game/script-ch2.rpy:269
 translate polish ep2_644cd80f:
@@ -428,7 +428,7 @@ translate polish ep2_644cd80f:
     # voice "voice/aoba/134.ogg"
     # aoba "A big pot of soup is probably the easiest for you to make..."
     voice "voice/aoba/134.ogg"
-    aoba "Gar zupy raczej bedzie latwizna dla ciebie..."
+    aoba "Gar zupy raczej bedzie dla ciebie latwizna..."
 
 # game/script-ch2.rpy:272
 translate polish ep2_d9752a0a:
@@ -436,7 +436,7 @@ translate polish ep2_d9752a0a:
     # voice "voice/aoba/135.ogg"
     # aoba "Since you like to toss many stuff in the frying pan like last time."
     voice "voice/aoba/135.ogg"
-    aoba "Skoro lubisz rzucac wieloma rzeczami na patelni jak ostatnio"
+    aoba "Skoro lubisz podrzucac wieloma rzeczami... Jak ostatnio..."
 
 # game/script-ch2.rpy:275
 translate polish ep2_53f73c46:
@@ -524,7 +524,7 @@ translate polish ep2_2f70f34a:
 translate polish ep2_cade3165:
 
     # simon "here's goes nothing..."
-    simon "Tutaj nic nie ma..."
+    simon "A u mnie sie nic nie dzieje..."
 
 # game/script-ch2.rpy:318
 translate polish ep2_325a2d6e:
@@ -564,7 +564,7 @@ translate polish ep2_9752d601:
     # voice "voice/aoba/142.ogg"
     # aoba "Is this way better than your cooking"
     voice "voice/aoba/142.ogg"
-    aoba "Czy jest o niebo lepsze niz twoje gotowanie"
+    aoba "Czy smakuje lepiej niż twoje poprzednia dania?"
 
 # game/script-ch2.rpy:338
 translate polish ep2_1c1e5c8d:
