@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-04-25 20:05
+# TODO: Translation updated at 2021-04-25 20:05
 
 # game/script-ch1.rpy:16
 translate polish ep1_46f8a55b:
 
     # Character("Cashier", color="#fe8e00") "That'll be 6.9$, sir."
-    Character("Cashier", color="#fe8e00") "To bedzie 6.9$, sir"
+    Character("Cashier", color="#fe8e00") "To bedzie 6.9$, sir."
 
 # game/script-ch1.rpy:20
 translate polish ep1_5107d104:
@@ -18,7 +18,7 @@ translate polish ep1_5107d104:
 translate polish ep1_af403804:
 
     # "$$$ *cha-ching* $$$"
-    "$$$ *trzeszczy kaska* $$$"
+    "$$$ *kaska trzeszczy* $$$"
 
 # game/script-ch1.rpy:25
 translate polish ep1_c483f710:
@@ -62,7 +62,7 @@ translate polish ep1_4c983442:
 translate polish ep1_da2f015f:
 
     # "until then..."
-    "dopoki..."
+    "az nagle..."
 
 # game/script-ch1.rpy:53
 translate polish ep1_688e8415:
@@ -96,13 +96,13 @@ translate polish ep1_4d1f80ff:
 translate polish ep1_5f8f8b6e:
 
     # unknown "am hungry af"
-    unknown "glodny jestem"
+    unknown "Jestem strasznie glodny.."
 
 # game/script-ch1.rpy:73
 translate polish ep1_7a41a716:
 
     # unknown "pls bread"
-    unknown "chleb pls"
+    unknown "..prosze, chociaz kawalek chleba"
 
 # game/script-ch1.rpy:75
 translate polish ep1_55bfc807:
@@ -110,7 +110,7 @@ translate polish ep1_55bfc807:
     # voice "voice/aoba/64.ogg"
     # aoba "(Damn... this man called me a nick ger but he's so helpless...)"
     voice "voice/aoba/64.ogg"
-    aoba "(Kurde... ten chlop nazwal mnie nick gerem ale jest taki bezradny... "
+    aoba "(Kurde... ten chlop nazwal mnie nick gerem ale jest jednoczesnie taki bezradny...)"
 
 # game/script-ch1.rpy:78
 translate polish ep1_fb55f5be:
@@ -134,7 +134,7 @@ translate polish ep1_90d3c926:
     # voice "voice/aoba/67.ogg"
     # aoba "Here's the bread"
     voice "voice/aoba/67.ogg"
-    aoba "Masz chleb i siema"
+    aoba "Prosze, oto twoj chleb"
 
 # game/script-ch1.rpy:95
 translate polish ep1_8fabd02a:
@@ -202,13 +202,13 @@ translate polish ep1_0cba6c0f:
 translate polish ep1_21c9ec95:
 
     # unknown "DAMN BRO THAT TREE LOOKIN' THICC"
-    unknown "KURDE, TO DRZEWO WYGLADA POTEZNIE"
+    unknown "ŁO CHOLERA, ALE MASNE DRZEWO"
 
 # game/script-ch1.rpy:147
 translate polish ep1_57217813:
 
     # unknown "What the fuck is this tree?"
-    unknown "Co to za drzewo wgl?"
+    unknown "Co to jest wgl?"
 
 # game/script-ch1.rpy:149
 translate polish ep1_34524147:
@@ -238,7 +238,7 @@ translate polish ep1_21c71e86:
     # voice "voice/aoba/74.ogg"
     # aoba "It's a long story, and here we are!"
     voice "voice/aoba/74.ogg"
-    aoba "Dluga historia, no i jestesmy"
+    aoba "Dluga historia... I oto jestesmy"
 
 # game/script-ch1.rpy:164
 translate polish ep1_fc76d097:
@@ -366,7 +366,7 @@ translate polish ep1_f8fa162d:
     # voice "voice/aoba/81.ogg"
     # "WHAT THE FUCK" with Shake((5, 5, 5, 0), 3.0, dist=30)
     voice "voice/aoba/81.ogg"
-    "CO DO K...." with Shake((5, 5, 5, 0), 3.0, dist=30)
+    "CO SIE TU ODWALILO!?" with Shake((5, 5, 5, 0), 3.0, dist=30)
 
 # game/script-ch1.rpy:233
 translate polish ep1_7c58a301:
@@ -394,7 +394,7 @@ translate polish ep1_727744e3:
     # voice "voice/aoba/83.ogg"
     # aoba "GET OUT!!!!" with hpunch
     voice "voice/aoba/83.ogg"
-    aoba "WYDUPIAJ!!!!" with hpunch
+    aoba "WYPAD MI STAD!!!!" with hpunch
 
 # game/script-ch1.rpy:255
 translate polish ep1_ba28090a:
@@ -440,7 +440,7 @@ translate polish ep1_2ee639bb:
 translate polish ep1_bbabcc5b:
 
     # simon "Oh hey! You're finally awake!"
-    simon "Oh, siema! Wkoncu wstalas!"
+    simon "Oh, witaj! Wkoncu wstalas!"
 
 # game/script-ch1.rpy:289
 translate polish ep1_11a88315:
@@ -448,7 +448,7 @@ translate polish ep1_11a88315:
     # voice "voice/aoba/86.ogg"
     # aoba "WHAT THE FUCK" with Shake((5, 5, 5, 0), 0.75, dist=30)
     voice "voice/aoba/86.ogg"
-    aoba "CO DO K...." with Shake((5, 5, 5, 0), 0.75, dist=30)
+    aoba "CO JEST...!?" with Shake((5, 5, 5, 0), 0.75, dist=30)
 
 # game/script-ch1.rpy:292
 translate polish ep1_e0089bf9:
@@ -456,7 +456,7 @@ translate polish ep1_e0089bf9:
     # voice "voice/aoba/87.ogg"
     # aoba "WHAT ARE YOU DOING IN MY ROOM!?"
     voice "voice/aoba/87.ogg"
-    aoba "CO TY TU WGL ROBISZ!?"
+    aoba "CO TY TU W OGOLE ROBISZ!?"
 
 # game/script-ch1.rpy:295
 translate polish ep1_021e6243:
@@ -464,7 +464,7 @@ translate polish ep1_021e6243:
     # voice "voice/aoba/88.ogg"
     # aoba "I ALREADY KICKED YOU OUT!!"
     voice "voice/aoba/88.ogg"
-    aoba "PRZECIEZ CIE JUZ WYRZUCILAM!!!"
+    aoba "PRZECIEZ CIE WYRZUCILAM!!!"
 
 # game/script-ch1.rpy:302
 translate polish ep1_c265078b:
@@ -506,7 +506,7 @@ translate polish ep1_55ff51d8:
 translate polish ep1_9356b272:
 
     # simon "I don't have a computer at home (box)"
-    simon "No nie mam kompa w domu (karton xD)"
+    simon "No... nie mam kompa w domu (karton xD)"
 
 # game/script-ch1.rpy:325
 translate polish ep1_f04147fd:
@@ -550,13 +550,13 @@ translate polish ep1_385d6dfd:
 translate polish ep1_93c0413c:
 
     # simon "Yaa.. I'm still trying to develop an anti-cheat system tho"
-    simon "Yaa... Dalej probuje stworzyc anti-cheata"
+    simon "Yaa... Dalej probuje stworzyc anty-cheata"
 
 # game/script-ch1.rpy:345
 translate polish ep1_b1f7b8e9:
 
     # simon "but I'm not sure how to implement it properly but I think I'm getting closer"
-    simon "ale nie jestem pewien, jak to dobrze wstawic, ale mysle, ze jestem dosyc blisko"
+    simon "ale nie jestem pewien, jak to dobrze wstawic, ale mysle, ze jestem w miare blisko"
 
 # game/script-ch1.rpy:349
 translate polish ep1_f23bbeba:

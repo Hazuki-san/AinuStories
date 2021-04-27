@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-25 20:05
+# TODO: Translation updated at 2021-04-25 20:05
 
 # game/script-ch3.rpy:13
 translate polish ep3_ae7ae501:
@@ -28,7 +28,7 @@ translate polish ep3_705b987c:
 translate polish ep3_af5b4a8e:
 
     # aoba "Good morning, apple..."
-    aoba "Dzien dobry, apple..."
+    aoba "Czesc, Apple..."
 
 # game/script-ch3.rpy:37
 translate polish ep3_32c728fe:
@@ -52,7 +52,7 @@ translate polish ep3_9f6468ed:
 translate polish ep3_979e9302:
 
     # aoffy "Guess he doesn't want to stay here after all..."
-    aoffy "Chyba jednak nie chce tutaj byc..."
+    aoffy "Chyba woli sobie mieszkac w kartonie..."
 
 # game/script-ch3.rpy:49
 translate polish ep3_1bc57c64:
@@ -76,13 +76,13 @@ translate polish ep3_7072f3b4:
 translate polish ep3_f65714e7:
 
     # "Simon is gone... what do I do..."
-    "Simon zniknal... Nie wiem co zrobic..."
+    "Gdzie jest Simon... Nie wiem co robić..."
 
 # game/script-ch3.rpy:59
 translate polish ep3_25682c9d:
 
     # "I need to find him home, something bad might happen!"
-    "Musze go znalezc, moze stac sie cos zlego"
+    "Musze go znalezc, zanim stanie sie cos zlego!"
 
 # game/script-ch3.rpy:65
 translate polish ep3_ef8525fe:
@@ -100,7 +100,7 @@ translate polish ep3_72fa05ae:
 translate polish ep3_9e54924f:
 
     # aoba "Simon? Come out already..."
-    aoba "Simon? Wez juz wylaz"
+    aoba "Simon? Wez juz wylaz, to nie jest smieszne..."
 
 # game/script-ch3.rpy:77
 translate polish ep3_05153e90:
@@ -136,7 +136,7 @@ translate polish ep3_de52397c_1:
 translate polish ep3_d947600a:
 
     # aoba "(No wait... he shouldn't be here... the fuck am I doing?)"
-    aoba "(Czekaj... nie powinno go tu byc... Co ja wgl robie?"
+    aoba "(Czekaj... nie powinno go tu byc... Co ja wgl robie?)"
 
 # game/script-ch3.rpy:131
 translate polish ep3_a20cefa7_1:
@@ -154,7 +154,7 @@ translate polish ep3_b9a628c1:
 translate polish ep3_52dbea5f:
 
     # aoba "now I don't have to worry about food shortage ever again..."
-    aoba "Teraz juz nie bede musiala sie martwic o zarcie"
+    aoba "Przynajmniej mam spokoj z jedzeniem"
 
 # game/script-ch3.rpy:141
 translate polish ep3_4f14dfa7:
@@ -190,13 +190,13 @@ translate polish ep3_285d8061:
 translate polish ep3_673fe338:
 
     # aoffy "What the actual f--"
-    aoffy "Co do k...."
+    aoffy "Co jest....!?"
 
 # game/script-ch3.rpy:168
 translate polish ep3_3d49358f:
 
     # aoffy "Uhh... Please calm down here..."
-    aoffy "Uhh... Uspokoj sie, prosze"
+    aoffy "Uhh... Uspokoj sie, pls"
 
 # game/script-ch3.rpy:170
 translate polish ep3_d7c29f3c:
@@ -214,7 +214,7 @@ translate polish ep3_e927dfc2:
 translate polish ep3_03b07103:
 
     # aoba "NOW WE RAN OUT OF COFFEE AS WELL" with vpunch
-    aoba "TERAZ NAWET KAWY NIE MAMY" with vpunch
+    aoba "TERAZ NIE MAMY NAWET KAWY" with vpunch
 
 # game/script-ch3.rpy:180
 translate polish ep3_ad8af358:
@@ -232,13 +232,13 @@ translate polish ep3_095845e5:
 translate polish ep3_55971819:
 
     # aoba "You just don't get it Aoffy" with vpunch
-    aoba "Nie zrozumiesz tego, Aoffy" with vpunch
+    aoba "Nie ogarniesz tego, Aoffy" with vpunch
 
 # game/script-ch3.rpy:188
 translate polish ep3_e8b3e744:
 
     # aoba "I absolutely need my morning coffee!!!" with vpunch
-    aoba "Potrzebuje mojej porannej kawy!!!" with vpunch
+    aoba "Potrzebuje mojej porannej kawy!!! Czaisz!?" with vpunch
 
 # game/script-ch3.rpy:190
 translate polish ep3_a09c44a7:
@@ -250,7 +250,7 @@ translate polish ep3_a09c44a7:
 translate polish ep3_0d825b66:
 
     # aoba "I'll buy some immediately!!" with vpunch
-    aoba "Lece odrazu kilka kupic!!!" with vpunch
+    aoba "Szybko, lece po kawe!!!" with vpunch
 
 # game/script-ch3.rpy:199
 translate polish ep3_a20cefa7_2:
@@ -262,7 +262,7 @@ translate polish ep3_a20cefa7_2:
 translate polish ep3_f698779a:
 
     # angel "yo wtf?"
-    angel "ty, wtf?"
+    angel "co jest nagle!? *wtf*"
 
 # game/script-ch3.rpy:241
 translate polish ep3_3b33f0f3:
@@ -274,7 +274,7 @@ translate polish ep3_3b33f0f3:
 translate polish ep3_3329a885:
 
     # aoffy "I don't know anymore, apple..."
-    aoffy "Juz serio nie wiem, apple..."
+    aoffy "Teraz to nawet ja nie wiem, Apple..."
 
 # game/script-ch3.rpy:249
 translate polish ep3_952f7d17:
@@ -298,7 +298,7 @@ translate polish ep3_de52397c_3:
 translate polish ep3_518194e1:
 
     # aoba "(Simon... would he be alright...?)"
-    aoba "Simon... czy wszystko bedzie dobrze...?"
+    aoba "Simon... mam nadzieje, ze chociaz zyjesz...?"
 
 # game/script-ch3.rpy:270
 translate polish ep3_6bf63618:
@@ -316,13 +316,13 @@ translate polish ep3_46963e49:
 translate polish ep3_461e79f6:
 
     # aoba "WHAT!!"
-    aoba "COOOO!!"
+    aoba "REEEEEEE!!"
 
 # game/script-ch3.rpy:281
 translate polish ep3_5f9e126f:
 
     # aoba "HOW COULD THIS HAPPEN!!"
-    aoba "JAK TO SIE MOGLO STAC!!"
+    aoba "ALE ZE NIE MA KAWY!?"
 
 # game/script-ch3.rpy:285
 translate polish ep3_1c42d427:
@@ -346,7 +346,7 @@ translate polish ep3_2f5f39ac:
 translate polish ep3_d4ca4b6e:
 
     # aoba "What the?! SIMON!?" with vpunch
-    aoba "Co do? SIMON!?" with vpunch
+    aoba "Co do... SIMON!?" with vpunch
 
 # game/script-ch3.rpy:298
 translate polish ep3_afc97259:
@@ -358,7 +358,7 @@ translate polish ep3_afc97259:
 translate polish ep3_8855cbed:
 
     # simon "Yeah, I've got bills I've gotta pay"
-    simon "Ta... Mam rachunki do zaplacenia"
+    simon "Tiaa... Mam rachunki do zaplacenia"
 
 # game/script-ch3.rpy:304
 translate polish ep3_825f86fa:
@@ -388,13 +388,13 @@ translate polish ep3_eb730384:
 translate polish ep3_1f487a0c:
 
     # simon "Yeah... Thanks for taking me in, feeding me and stuff like that..."
-    simon "Tiaa... Dzieki za przygarniecie mnie, nakarmienie itp..."
+    simon "Mhm... Dzieki za przygarniecie mnie, nakarmienie itp..."
 
 # game/script-ch3.rpy:318
 translate polish ep3_a43312c3:
 
     # simon "Anyways, how can I help?"
-    simon "W kazdym razie, Jak moge pomcc?"
+    simon "W kazdym razie, jak moge pomoc?"
 
 # game/script-ch3.rpy:320
 translate polish ep3_1bc57c64_1:
@@ -460,13 +460,13 @@ translate polish ep3_4575c89a:
 translate polish ep3_526d2d2e:
 
     # simon "less go" with vpunch
-    simon "lecimy" with vpunch
+    simon "lecimy z tematem!!!" with vpunch
 
 # game/script-ch3.rpy:368
 translate polish ep3_7f965876:
 
     # aoba "W- wait...! Whose motorboat is this?!"
-    aoba "Cz- Czekaj...! Czyja to motorcwka?!"
+    aoba "Cz- Czekaj...! Czyja to motorowka?!"
 
 # game/script-ch3.rpy:382
 translate polish ep3_447757ba:
@@ -508,13 +508,13 @@ translate polish ep3_de52397c_4:
 translate polish ep3_c766be0f:
 
     # aoba "WE'RE DOOMED"
-    aoba "JESTESMY ZGUBIENI"
+    aoba "NO I MAMY PRZERABANE"
 
 # game/script-ch3.rpy:411
 translate polish ep3_b7a9cfed:
 
     # simon "Hello, is anyone on shores?"
-    simon "Halo, jest ktos na linii?"
+    simon "Halo, jest tu moze ktos?"
 
 # game/script-ch3.rpy:413
 translate polish ep3_59cca848:
@@ -538,7 +538,7 @@ translate polish ep3_de52397c_5:
 translate polish ep3_7f419078:
 
     # aoba "SIMON!! YOU BETTER TAKE ME HOME! RIGHT NOW!" with hpunch
-    aoba "SIMON! ZABIERAJ MNIE DO DOMU! JUZ!!!" with hpunch
+    aoba "SIMON! ZABIERAJ MNIE DO DOMU! TERAZ!!!" with hpunch
 
 # game/script-ch3.rpy:605
 translate polish ep3_ffcb6595:
@@ -556,7 +556,7 @@ translate polish ep3_4654391a_1:
 translate polish ep3_fdb07dcf:
 
     # simon "I'm a pro minecraft player!"
-    simon "Jestem prosem w Minecraft"
+    simon "Jestem pro graczem Minecrafta!"
 
 # game/script-ch3.rpy:613
 translate polish ep3_78515781:
@@ -580,13 +580,13 @@ translate polish ep3_698f3791:
 translate polish ep3_6c5d9cfb:
 
     # simon "annddd... DONE!"
-    simon "....No i Gotowe!"
+    simon "iiiiii... gotowe!"
 
 # game/script-ch3.rpy:642
 translate polish ep3_82525324:
 
     # aoba "Okay, let's go then..."
-    aoba "Okej... No to lecimy..."
+    aoba "Okej, no to plyniemy..."
 
 # game/script-ch3.rpy:646
 translate polish ep3_ce4d06ff:
@@ -604,7 +604,7 @@ translate polish ep3_8a57d15e:
 translate polish ep3_0b1bdc33:
 
     # simon "besides... it's not a good idea to go right now!"
-    simon "Poza tym... to chyba niezbyt dobry pomysl, zeby teraz wyruszac"
+    simon "Poza tym... to chyba niezbyt dobry pomysl, zeby teraz wyruszac!"
 
 # game/script-ch3.rpy:656
 translate polish ep3_612affb5:
@@ -640,13 +640,13 @@ translate polish ep3_de52397c_6:
 translate polish ep3_3963b524:
 
     # simon "Aren't you gonna wish for anything?"
-    simon "Nie zyczysz sobie niczego?"
+    simon "Nie masz jakiegos zyczenia?"
 
 # game/script-ch3.rpy:687
 translate polish ep3_86bc9162:
 
     # aoba "No... Feeling hopeless right now..."
-    aoba "Nie... Czuje sie \"Hopeless\""
+    aoba "Nie... Czuje sie... \"Hopeless\""
 
 # game/script-ch3.rpy:692
 translate polish ep3_6dabf68b:
@@ -664,19 +664,19 @@ translate polish ep3_9db63f44:
 translate polish ep3_88b7ef8e:
 
     # "(Fun fact: Aoba's Minecraft Username is Hoap)"
-    "(Fun fact: Nick Aoby w Minecraft to Hoap "
+    "(Fun fact: Nick Aoby w Minecraft to Hoap)"
 
 # game/script-ch3.rpy:700
 translate polish ep3_b5fa62bb:
 
     # aoba "I don't know how you're in the mood to make stupid jokes right now..."
-    aoba "Nie wiem, jak ty mozesz wyjezdzac z zartami w takiej sytuacji"
+    aoba "Nie wiem, jak ty mozesz wyjezdzac z zartami w takiej sytuacji..."
 
 # game/script-ch3.rpy:702
 translate polish ep3_575dd346:
 
     # aoba "Aren't you worried at all?"
-    aoba "Nawet na chwile sie nie martwisz?"
+    aoba "Nawet na chwile sie nie martwisz? Ty myslisz w ogole?"
 
 # game/script-ch3.rpy:706
 translate polish ep3_ba28090a_1:
@@ -694,7 +694,7 @@ translate polish ep3_7262216f:
 translate polish ep3_fe2ba182:
 
     # simon "Yeah... I'm just trying to be positive..."
-    simon "To tak... Staram sie byc pozytywny..."
+    simon "To tak... Staram sie byc pozytywny w tej sytuacji..."
 
 # game/script-ch3.rpy:714
 translate polish ep3_43c498dd:
@@ -712,7 +712,7 @@ translate polish ep3_de52397c_7:
 translate polish ep3_6fc05180:
 
     # aoba "Right... sorry..."
-    aoba "No dobrze... przepraszam..."
+    aoba "No dobrze... sorki..."
 
 # game/script-ch3.rpy:726
 translate polish ep3_40244d2f:
@@ -724,13 +724,13 @@ translate polish ep3_40244d2f:
 translate polish ep3_5cd2d448:
 
     # simon "We'll figure out what to do in the morning!"
-    simon "Pomyslimy nad tym rano"
+    simon "Pomyslimy nad tym rano..."
 
 # game/script-ch3.rpy:732
 translate polish ep3_8677b63b:
 
     # simon "Welp! Good night!"
-    simon "Tak wiec! Dobranoc!"
+    simon "No to dobranoc!"
 
 # game/script-ch3.rpy:736
 translate polish ep3_35cdad30:
@@ -772,13 +772,13 @@ translate polish ep3_4e83746c:
 translate polish ep3_347e57d1:
 
     # aoba "Gah... and my back... sleeping on sand made it hurts..."
-    aoba "Gah... no i moje plecy... spanie na piasku boli..."
+    aoba "Gah... no i moje plecy... spanie na piasku boli... i to tak na serio"
 
 # game/script-ch3.rpy:763
 translate polish ep3_2b258e2a:
 
     # aoba "This is bad... I feel so horrible right now..."
-    aoba "Jest zle... Czuje sie okropnie..."
+    aoba "Jest cholernie zle... Czuje sie okropnie..."
 
 # game/script-ch3.rpy:765
 translate polish ep3_b84da1bb:
@@ -790,7 +790,7 @@ translate polish ep3_b84da1bb:
 translate polish ep3_e79abba9:
 
     # simon "GATHERING MONTAGE!!!" with vpunch
-    simon "ZBIERANKO MONTAGE!!!" with vpunch
+    simon "ZBIERANKO MONTAGE!!! (zostawcie lapke w gore)" with vpunch
 
 # game/script-ch3.rpy:830
 translate polish ep3_fe6e0d4a:
@@ -832,7 +832,7 @@ translate polish ep3_2b027033:
 translate polish ep3_b4799ddf:
 
     # simon "Yoooooo! Way to go, Aoba!"
-    simon "Yoooooo! Dobrze, Aoba!"
+    simon "Yoooooo! Lecisz, Aoba!"
 
 # game/script-ch3.rpy:870
 translate polish ep3_c7aa1984:
@@ -886,7 +886,7 @@ translate polish ep3_f53ef41e:
 translate polish ep3_6664b928:
 
     # aoba "RUN FOR YOUR LIFE!!!" with vpunch
-    aoba "UCIEKAJ, JESLI CI ZYCIE MILE!!!" with vpunch
+    aoba "SPIEPRZAJ ILE SIL W NOGACH!!!" with vpunch
 
 # game/script-ch3.rpy:909
 translate polish ep3_d3c75a36:
@@ -916,7 +916,7 @@ translate polish ep3_db52e2cd:
 translate polish ep3_fcdf1572:
 
     # simon "Yooo, isn't that a coffee plant?!"
-    simon "Yooo, czy to nie jest drzewko kawowe?!"
+    simon "Ej... czy to nie jest drzewko kawowe?!"
 
 # game/script-ch3.rpy:943
 translate polish ep3_0d6bf139:
@@ -934,7 +934,7 @@ translate polish ep3_4590fb5d:
 translate polish ep3_970eb54a:
 
     # aoba "Ahh~ it's so great..."
-    aoba "Ahh~ jest taka pyszna..."
+    aoba "Ahh~ jest zarabista..."
 
 # game/script-ch3.rpy:967
 translate polish ep3_a6ee253e:
@@ -970,13 +970,13 @@ translate polish ep3_ba28090a_2:
 translate polish ep3_bb7a3f8f:
 
     # simon "Ah welp... guess we won't be sleeping tonight..."
-    simon "No dobra, czyli dzisiaj sobie nie pospimy"
+    simon "No to co, czyli dzisiaj sobie nie pospimy"
 
 # game/script-ch3.rpy:993
 translate polish ep3_cccb85c0:
 
     # simon "But hey! our advanture is coming to an end..." with vpunch
-    simon "Ale hej! Nasza przygoda zmierza ku koncowi" with vpunch
+    simon "Ale czekaj... To w sumie koncowka naszej przygody" with vpunch
 
 # game/script-ch3.rpy:995
 translate polish ep3_737538e4:
@@ -1000,13 +1000,13 @@ translate polish ep3_de93686f:
 translate polish ep3_ebce1c78:
 
     # simon "Drinking hot coffee, sitting by campfire near the beach..."
-    simon "Pijemy goraca kawe, siedzimy przy ognisku blisko plazy..."
+    simon "Pijac goraca kawe i siedzac na plazy przy ognisku..."
 
 # game/script-ch3.rpy:1009
 translate polish ep3_3afc9f0e:
 
     # simon "I'm feeling really cozy right now!"
-    simon "Czuje sie naprawde przyjemnie!"
+    simon "Atmosfera jest teraz przyjemna!"
 
 # game/script-ch3.rpy:1011
 translate polish ep3_6c307c13:
@@ -1030,7 +1030,7 @@ translate polish ep3_d5675d4e:
 translate polish ep3_e3b5d21f:
 
     # simon "This is a beach episode after all!"
-    simon "W koncu jest to epizod o plazy"
+    simon "Mimo wszystko mamy tutaj epizod o plazy!"
 
 # game/script-ch3.rpy:1023
 translate polish ep3_cef0e961:
@@ -1078,7 +1078,7 @@ translate polish ep3_de52397c_11:
 translate polish ep3_bca82e12:
 
     # simon "the coast is clear!"
-    simon "Wybrzeze jest teraz czyste"
+    simon "Brzeg czysty - mozemy odplynac!"
 
 # game/script-ch3.rpy:1067
 translate polish ep3_b16266e2:
@@ -1102,7 +1102,7 @@ translate polish strings:
 
     # game/script-ch3.rpy:477
     old "{size=64}{color=#FFFFFF}Where... am I...?{/color}{/size}"
-    new "{size=64}{color=#FFFFFF}Gdzie... Jestem...?{/color}{/size}"
+    new "{size=64}{color=#FFFFFF}Gdzie... jestem...?{/color}{/size}"
 
     # game/script-ch3.rpy:493
     old "{size=64}{color=#FFFFFF}Goddamnit... All this shit just for coffee...?{/color}{/size}"
