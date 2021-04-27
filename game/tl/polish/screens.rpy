@@ -12,7 +12,7 @@ translate polish strings:
 
     # game/screens.rpy:258
     old "Skip"
-    new "Skip"
+    new "Pomin"
 
     # game/screens.rpy:259
     old "Auto"
