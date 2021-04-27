@@ -202,7 +202,7 @@ translate polish ep3_3d49358f:
 translate polish ep3_d7c29f3c:
 
     # aoffy "What's going on here?"
-    aoffy "Co sie wgl dzieje?"
+    aoffy "Co sie w ogole dzieje?"
 
 # game/script-ch3.rpy:174
 translate polish ep3_e927dfc2:
