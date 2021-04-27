@@ -620,7 +620,7 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:490
     old "mute all"
-    new "wycisz wszystkio"
+    new "wycisz wszystko"
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
