@@ -118,7 +118,7 @@ translate polish ep3_64237020:
 translate polish ep3_c040ced7:
 
     # unknown "who are you?"
-    unknown "kim ty wgl jestes?"
+    unknown "kim ty w ogole jestes?"
 
 # game/script-ch3.rpy:83
 translate polish ep3_83a55cf7:
@@ -136,7 +136,7 @@ translate polish ep3_de52397c_1:
 translate polish ep3_d947600a:
 
     # aoba "(No wait... he shouldn't be here... the fuck am I doing?)"
-    aoba "(Czekaj... nie powinno go tu byc... Co ja wgl robie?)"
+    aoba "(Czekaj... nie powinno go tu byc... Co ja w ogole robie?)"
 
 # game/script-ch3.rpy:131
 translate polish ep3_a20cefa7_1:
@@ -544,7 +544,7 @@ translate polish ep3_7f419078:
 translate polish ep3_ffcb6595:
 
     # simon "Ahh~ Aoba~ Calm downnnn... nyaa~~" with hpunch
-    simon "Ahh~ Aoba~ Uspokcj sie... nyaa~~" with hpunch
+    simon "Ahh~ Aoba~ Uspokoj sie... nyaa~~" with hpunch
 
 # game/script-ch3.rpy:609
 translate polish ep3_4654391a_1:
