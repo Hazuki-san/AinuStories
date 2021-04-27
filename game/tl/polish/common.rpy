@@ -144,7 +144,7 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}sr"
+    new "{#weekday_short}Sr"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
