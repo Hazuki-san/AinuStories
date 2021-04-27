@@ -1008,7 +1008,7 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Wiecej informacji na temat "
+    new "Wiecej informacji na temat podjecia naprawy mozesz znalesc w tej {a=[url]}dokumentacji{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
