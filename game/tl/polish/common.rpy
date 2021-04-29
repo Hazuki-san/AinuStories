@@ -28,11 +28,11 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "poziome przewijanie"
+    new "przewijanie poziome"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "pionowe przewijanie"
+    new "przewijanie pionowe"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
@@ -44,11 +44,11 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "zwiekszanie"
+    new "zwieksz"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "zmniejszanie"
+    new "zmniejsz"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
@@ -68,7 +68,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new "Skala rozmiaru tekstu"
+    new "Rozmiaru tekstu"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
@@ -76,7 +76,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new "Skalowanie odstepow linijek"
+    new "Odstep linijek"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
@@ -116,7 +116,7 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}sroda"
+    new "{#weekday}Sroda"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
@@ -144,7 +144,7 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}sr"
+    new "{#weekday_short}Sr"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
@@ -172,7 +172,7 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}{#month}"
+    new "{#month}Marzec"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
@@ -276,11 +276,11 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:566
     old "File page auto"
-    new "Plik strony auto"
+    new "Plik auto strony"
 
     # renpy/common/00action_file.rpy:568
     old "File page quick"
-    new "Plik strony szybkiej"
+    new "Plik szybkiej strony"
 
     # renpy/common/00action_file.rpy:570
     old "File page [text]"
@@ -296,7 +296,7 @@ translate polish strings:
 
     # renpy/common/00action_file.rpy:902
     old "Quick save complete."
-    new "Szybki zapis - zakonczony."
+    new "Szybki zapis zakonczony."
 
     # renpy/common/00action_file.rpy:920
     old "Quick save."
@@ -444,11 +444,11 @@ translate polish strings:
 
     # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
-    new "Blad przy zapisywaniu zrzutu jako %s."
+    new "Blad przy zapisywaniu zrzutu ekranu jako %s."
 
     # renpy/common/00keymap.rpy:312
     old "Saved screenshot as %s."
-    new "Zapisano zrzut jako %s."
+    new "Zapisano zrzut ekranu jako %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
@@ -744,7 +744,7 @@ translate polish strings:
 
     # renpy/common/_developer/developer.rpym:635
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Pamiec zdjec: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Pamiec podreczna zdjec: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:645
     old "✔ "
@@ -816,135 +816,135 @@ translate polish strings:
 
     # renpy/common/00updater.rpy:677
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Ten projekt nie ma wspieranych aktualizacji lub plik statusu aktualizacji zostal usuniety."
 
     # renpy/common/00updater.rpy:691
     old "This account does not have permission to perform an update."
-    new ""
+    new "To konto nie ma uprawnien by wykonac aktualizacjie."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to write the update log."
-    new ""
+    new "To konto nie ma uprawnien by zapisac dziennik zdarzen aktualizacji."
 
     # renpy/common/00updater.rpy:721
     old "Could not verify update signature."
-    new ""
+    new "Nie udalo sie zwertyfikowac podpisu aktualizacji."
 
     # renpy/common/00updater.rpy:992
     old "The update file was not downloaded."
-    new ""
+    new "Plik aktualizacji nie zostal pobrany"
 
     # renpy/common/00updater.rpy:1010
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Plik aktualizacji ma nie wlasciwy digest - moze byc uszkodzony."
 
     # renpy/common/00updater.rpy:1064
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Przy wypakowywaniu {}, nieznany typ {}"
 
     # renpy/common/00updater.rpy:1430
     old "Updater"
-    new ""
+    new "Aktualizator"
 
     # renpy/common/00updater.rpy:1437
     old "An error has occured:"
-    new ""
+    new "Wystapil blad:"
 
     # renpy/common/00updater.rpy:1439
     old "Checking for updates."
-    new ""
+    new "Sprawdzanie dostepnosci aktualizacji."
 
     # renpy/common/00updater.rpy:1441
     old "This program is up to date."
-    new ""
+    new "Ten program jest aktualny."
 
     # renpy/common/00updater.rpy:1443
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] jest dostepna. Chcesz ja zainstalowac?"
 
     # renpy/common/00updater.rpy:1445
     old "Preparing to download the updates."
-    new ""
+    new "Przygotowanie do pobrania aktualizaji."
 
     # renpy/common/00updater.rpy:1447
     old "Downloading the updates."
-    new ""
+    new "Pobieranie aktualizacji."
 
     # renpy/common/00updater.rpy:1449
     old "Unpacking the updates."
-    new ""
+    new "Rozpakowywanie aktualizacji."
 
     # renpy/common/00updater.rpy:1451
     old "Finishing up."
-    new ""
+    new "Konczenie aktualizacji."
 
     # renpy/common/00updater.rpy:1453
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Aktualizacja zostala zainstalowana. Program zostanie zrestartowany."
 
     # renpy/common/00updater.rpy:1455
     old "The updates have been installed."
-    new ""
+    new "Aktualizacja zostala zainstalowana."
 
     # renpy/common/00updater.rpy:1457
     old "The updates were cancelled."
-    new ""
+    new "Aktualizacja zostala anulowana."
 
     # renpy/common/00updater.rpy:1472
     old "Proceed"
-    new ""
+    new "Kontynuluj"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Zdjecie [index] z [count] jest zablokowane."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "poprzednia"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "nastepna"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "pokaz slajdow"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "wroc"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderuj"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Wybieranie automatyczne"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Wymus GL Renderer"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Wymus ANGLE Renderer"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Wymus GLES Renderer"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Wymus GL2 Renderer"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Wymus ANGLE2 Renderer"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Wymus GLES2 Renderer"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
@@ -980,99 +980,99 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Zmiany zostana pokazane przy nastepnym razie wlaczania tego programu"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Ostrzezenie dotyczace wydajnosci"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Ten komputer uzywa renderowania softwarowe'go"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Ta gra wymaga silnika GL2 ktory nie moze zostac zainicjowany"
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Ten komputer ma problem z wyswietlaniem grafik: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Sterowniki karty graficznej moga byc nieaktualnie lub nie dzialaja poprawnie. To moze prowadzic do wolnego lub niewlasniego wyswietlania grafik."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Plik {a=edit:1:log.txt}log.txt{/a} moze zawierac informacje ktore mogla ci pomoc ustalic co jest nie tak z twoim komputerem."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Wiecej informacji na temat podjecia naprawy mozesz znalesc w tej {a=[url]}dokumentacji{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Kontyunuj, Nie pokazuj ponownie tego ostrzezenia"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Kontyunuj, Nie pokazuj ponownie ostrzezen"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Zmien opcje renderowania"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Wybierz kontroler by rozpoczac kalibracje"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Brak dostepnych kontrolerow"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Trwa kalibrowanie [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Nacisnij albo poruszaj '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Pomin (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Wroc (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Otworz"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Otwiera plik traceback.txt w edytorze tekstu."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Skopiuj BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Kopiuje plik traceback.txt do schowka jako BBcode dla forum takich jak https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Skopiuj Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Kopiuje plik traceback.txt do schowka jako Markdown dla Discorda."
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Wystapil blad."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
@@ -1084,49 +1084,49 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
-    new ""
+    new "Ignoruj"
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignoruje problem, pozwalajac na kontyunowanie."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignoruje problem, pozwalajac na kontyunowanie. Czasami prowadzi to do dodatkowych bledow."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Przeladuj"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Przeladowywyje gre z dysku, zapisuje i przywraca stan gry jesli jest mozliwosc"
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Konsola"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Otwiera konsole by pozwolic na debugowanie problemu"
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Wychodzi z gry."
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Analiza skryptu nie powiodla sie."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Otwiera plik errors.txt w edytorze tekstu."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Kopiuje plik errors.txt do schowka jako BBcode dla forum takich jak https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Kopiuje plik errors.txt do schowka jako Markdown dla Discorda."
 

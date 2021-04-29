@@ -184,7 +184,7 @@ translate polish ep2_0a7a8549:
     # voice "voice/aoba/117.ogg"
     # aoba "WHAT THE FUCKKKKKKKK IS THISSSSSSSSS" with vpunch
     voice "voice/aoba/117.ogg"
-    aoba "CO TOOOO WGL JEEEST?" with vpunch
+    aoba "CO TOOOO W OGOLE JEEEST?" with vpunch
 
 # game/script-ch2.rpy:120
 translate polish ep2_0769528c:
@@ -368,7 +368,7 @@ translate polish ep2_aa2a216d:
 translate polish ep2_733b1616:
 
     # simon "(wtf is with that pose...!?)"
-    simon "(co to wgl za poza...!? *wtf*)"
+    simon "(co to w ogole za poza...!? *wtf*)"
 
 # game/script-ch2.rpy:239
 translate polish ep2_55664fc8:
