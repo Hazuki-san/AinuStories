@@ -22,3 +22,19 @@ translate thai strings:
     old "{color=#ffffff}Aoba Suzukaze Presents\na story and art by: Aoffy{/color}"
     new "{color=#ffffff}Aoba Suzukaze ขอเสนอ\nเนื้อเรื่องและภาพโดย Aoffy{/color}"
 
+# TODO: Translation updated at 2021-05-04 20:42
+
+translate thai strings:
+
+    # game/splash.rpy:3
+    old "Polski"
+    new "ภาษาโปแลนด์"
+
+    # game/splash.rpy:3
+    old "Indo"
+    new "ภาษาอินโดนีเซีย"
+
+    # game/splash.rpy:3
+    old "{font=Mali.ttf}{size=48} {/size}{/font}{font=Neucha.ttf}{size=30}Русский{/size}{/font}"
+    new "ภาษารัสเซีย"
+

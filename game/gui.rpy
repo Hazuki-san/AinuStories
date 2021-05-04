@@ -55,12 +55,9 @@ define gui.interface_text_color = '#404040'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "Mali.ttf"
 
-## The font used for character names.
 define gui.name_text_font = "monties.ttf"
-
-## The font used for out-of-game text.
+define gui.text_font = "Mali.ttf"
 define gui.interface_text_font = "Mali.ttf"
 
 ## The size of normal dialogue text.

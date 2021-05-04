@@ -1,0 +1,13 @@
+translate russian python:
+    gui.text_font = "Neucha.ttf"
+    gui.interface_text_font = "Neucha.ttf"
+    gui.choice_button_text_font = "Neucha.ttf"
+    gui.button_text_font = "Neucha.ttf"
+    gui.radio_button_text_size = 22
+    gui.check_button_text_size = 22
+    gui.button_text_size = 32
+    gui.text_size = 32
+    gui.interface_text_size = 32
+    gui.label_text_size = 30
+    gui.notify_text_size = 22
+    gui.title_text_size = 58

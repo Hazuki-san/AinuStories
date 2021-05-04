@@ -629,6 +629,14 @@ screen about():
                 spacing 15
                 text _("") style "about_small"
                 text _("nitayaah#5874")
+            hbox:
+                spacing 15
+                text _("Indo translation") style "about_small"
+                text _("Adomfer#0084")
+            hbox:
+                spacing 15
+                text _("Russian translation") style "about_small"
+                text _("Spooker#5434")
 
             ## gui.about is usually set in options.rpy.
             if gui.about:
@@ -832,8 +840,10 @@ screen preferences():
                     style_prefix "radio"
                     label _("Language")
                     textbutton "English" action Language(None)
-                    textbutton "ภาษาไทย" action Language("thai")
+                    textbutton "{font=Mali.ttf}{size=32}ภาษาไทย{/size}{/font}" action Language("thai")
                     textbutton "Polski" action Language("polish")
+                    textbutton "Indo" action Language("indo")
+                    textbutton "{font=Neucha.ttf}{size=22}Русский{/size}{/font}" action Language("russian")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.

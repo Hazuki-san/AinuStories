@@ -7,6 +7,10 @@ label language_chooser:
             $ renpy.change_language("thai")
         "Polski":
             $ renpy.change_language("polish")
+        "Indo":
+            $ renpy.change_language("indo")
+        "{font=Mali.ttf}{size=48} {/size}{/font}{font=Neucha.ttf}{size=30}Русский{/size}{/font}":
+            $ renpy.change_language("russian")
     $ renpy.utter_restart() #alternatively, use "return" if you don't want to go to the main menu.
 
 label splashscreen:

@@ -394,3 +394,43 @@ translate thai strings:
     old "Menu"
     new "เมนู"
 
+# TODO: Translation updated at 2021-05-04 20:42
+
+translate thai strings:
+
+    # game/screens.rpy:621
+    old "Thai translation"
+    new "งานแปลภาษาไทย"
+
+    # game/screens.rpy:622
+    old "Aoba Suzukaze#0900"
+    new "Aoba Suzukaze#0900"
+
+    # game/screens.rpy:626
+    old "Polski translation"
+    new "งานแปลภาษาโปแลนด์"
+
+    # game/screens.rpy:627
+    old "Sezam#3428"
+    new "Sezam#3428"
+
+    # game/screens.rpy:631
+    old "nitayaah#5874"
+    new "nitayaah#5874"
+
+    # game/screens.rpy:634
+    old "Indo translation"
+    new "งานแปลภาษาอินโดนีเซีย"
+
+    # game/screens.rpy:635
+    old "Adomfer#0084"
+    new "Adomfer#0084"
+
+    # game/screens.rpy:638
+    old "Russian translation"
+    new "งานแปลภาษารัสเซีย"
+
+    # game/screens.rpy:639
+    old "Spooker#5434"
+    new "Spooker#5434"
+
