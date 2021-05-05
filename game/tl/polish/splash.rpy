@@ -25,4 +25,12 @@ translate polish strings:
     # game/splash.rpy:3
     old "Polski"
     new "Polski"
+    
+    # game/splash.rpy:3
+    old "Pусский"
+    new "Rosyjski"
+    
+    # game/splash.rpy:3
+    old "Indo"
+    new "Indo"
 
