@@ -121,144 +121,184 @@ translate polish strings:
     # game/screens.rpy:615
     old "YOU"
     new "TOBIE"
-
+    
     # game/screens.rpy:621
+    old "Thai translation"
+    new "Przeklad na Tajski"
+
+    # game/screens.rpy:622
+    old "Aoba Suzukaze#0900"
+    new "Aoba Suzukaze#0900"
+    
+    # game/screens.rpy:626
+    old "Polski translation"
+    new "Przeklad na Polski"
+    
+     # game/screens.rpy:627
+    old "Sezam#3428"
+    new "Sezam#3428"
+
+    # game/screens.rpy:631
+    old "nitayaah#5874"
+    new "nitayaah#5874"
+    
+    # game/screens.rpy:634
+    old "Indo translation"
+    new "Przeklad na Indo"
+    
+    # game/screens.rpy:635
+    old "Adomfer#0084"
+    new "Adomfer#0084"
+    
+    # game/screens.rpy:638
+    old "Russian Translation"
+    new "Przeklad na Rosyjski"
+    
+    # game/screens.rpy:639
+    old "Spooker#5434"
+    new "Spooker#5434"
+
+    # screens.rpy:570
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]."
     new "Powstal dzieki {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]"
 
-    # game/screens.rpy:623
+    # game/screens.rpy:643
     old "[renpy.license!t]"
     new "[renpy.license!t]"
 
-    # game/screens.rpy:669
+    # screens.rpy:610
     old "Page {}"
     new "Strona {}"
 
-    # game/screens.rpy:669
+    # screens.rpy:610
     old "Automatic saves"
     new "Automatyczny Zapis"
 
-    # game/screens.rpy:669
+    # screens.rpy:610
     old "Quick saves"
     new "Szybkie zapisy"
 
-    # game/screens.rpy:711
+    # screens.rpy:652
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
-    # game/screens.rpy:711
+    # screens.rpy:652
     old "empty slot"
     new "pusty slot"
 
-    # game/screens.rpy:728
+    # screens.rpy:669
     old "<"
     new "<"
 
-    # game/screens.rpy:731
+    # screens.rpy:672
     old "{#auto_page}A"
     new "{#auto_page}A"
 
-    # game/screens.rpy:734
+    # screens.rpy:675
     old "{#quick_page}Q"
     new "{#quick_page}Q"
 
-    # game/screens.rpy:740
+    # screens.rpy:681
     old ">"
     new ">"
 
-    # game/screens.rpy:797
+    # screens.rpy:743
     old "Display"
     new "Ekran"
 
-    # game/screens.rpy:798
+    # screens.rpy:744
     old "Window"
     new "W oknie"
 
-    # game/screens.rpy:799
+    # screens.rpy:745
     old "Fullscreen"
     new "Pelny Ekran"
 
-    # game/screens.rpy:803
+    # game/screens.rpy:823
     old "Rollback Side"
     new "Strona Przewijania"
 
-    # game/screens.rpy:804
+    # game/screens.rpy:824
     old "Disable"
     new "Wylacz"
 
-    # game/screens.rpy:805
+    # game/screens.rpy:825
     old "Left"
     new "Lewo"
 
-    # game/screens.rpy:806
+    # game/screens.rpy:826
     old "Right"
     new "Prawo"
 
-    # game/screens.rpy:811
+    # screens.rpy:757
     old "Unseen Text"
     new "Niewidoczny tekst"
 
-    # game/screens.rpy:812
+    # screens.rpy:758
     old "After Choices"
     new "Po wyborze"
+    
+    # screens.rpy:764
+    old "Examples"
+    new "Przykłady"
 
-    # game/screens.rpy:813
+    # game/screens.rpy:837
     old "Transitions"
     new "Przejscia"
 
-    # game/screens.rpy:817
+    # screens.rpy:773
     old "Language"
     new "Jezyk"
 
-    # game/screens.rpy:832
+    # screens.rpy:794
     old "Text Speed"
     new "Szybkosc tekstu"
 
-    # game/screens.rpy:836
+    # screens.rpy:798
     old "Auto-Forward Time"
     new "Czas auto-odtwarzania"
 
-    # game/screens.rpy:843
+    # screens.rpy:805
     old "Music Volume"
     new "Glosnosc Muzyki"
 
-    # game/screens.rpy:850
+    # screens.rpy:812
     old "Sound Volume"
     new "Glosnosc Dzwiekow"
 
-    # game/screens.rpy:856
+    # screens.rpy:818
     old "Test"
     new "Test"
 
-    # game/screens.rpy:860
+    # screens.rpy:822
     old "Voice Volume"
     new "Dzwiek Glosow"
 
-    # game/screens.rpy:871
+    # screens.rpy:833
     old "Mute All"
     new "Wycisz wszystko"
 
-    # game/screens.rpy:989
+    # screens.rpy:949
     old "The dialogue history is empty."
     new "Historia dialogow jest pusta"
 
-    # game/screens.rpy:1059
+    # screens.rpy:1014
     old "Keyboard"
     new "Klawiatura"
 
-    # game/screens.rpy:1060
+    # screens.rpy:1015
     old "Mouse"
     new "Myszka"
 
-    # game/screens.rpy:1063
+    # screens.rpy:1018
     old "Gamepad"
     new "Gamepad"
 
-    # game/screens.rpy:1076
+    # screens.rpy:1031
     old "Enter"
     new "Enter"
 
-    # game/screens.rpy:1077
+    # screens.rpy:1032
     old "Advances dialogue and activates the interface."
     new "Przyspiesza dialog i aktywuje interfejs."
 
@@ -266,131 +306,131 @@ translate polish strings:
     old "Space"
     new "Spacja"
 
-    # game/screens.rpy:1081
+    # screens.rpy:1036
     old "Advances dialogue without selecting choices."
     new "Przechodzi do dialogu bez wyboru."
 
-    # game/screens.rpy:1084
+    # screens.rpy:1039
     old "Arrow Keys"
     new "Strzalki"
 
-    # game/screens.rpy:1085
+    # screens.rpy:1040
     old "Navigate the interface."
     new "Poruszanie sie po interfejsie."
 
-    # game/screens.rpy:1088
+    # screens.rpy:1043
     old "Escape"
     new "Esc"
 
-    # game/screens.rpy:1089
+    # screens.rpy:1044
     old "Accesses the game menu."
     new "Daje dostep do menu gry."
 
-    # game/screens.rpy:1092
+    # screens.rpy:1047
     old "Ctrl"
     new "Ctrl"
 
-    # game/screens.rpy:1093
+    # screens.rpy:1048
     old "Skips dialogue while held down."
     new "Pomija dialogi, gdy jest przytrzymany."
 
-    # game/screens.rpy:1096
+    # screens.rpy:1051
     old "Tab"
     new "Tab"
 
-    # game/screens.rpy:1097
+    # screens.rpy:1052
     old "Toggles dialogue skipping."
     new "Przelacza pomijanie dialogow."
 
-    # game/screens.rpy:1100
+    # screens.rpy:1055
     old "Page Up"
     new "Page Up"
 
-    # game/screens.rpy:1101
+    # screens.rpy:1056
     old "Rolls back to earlier dialogue."
     new "Wraca do poprzedniego dialogu"
 
-    # game/screens.rpy:1104
+    # screens.rpy:1059
     old "Page Down"
     new "Page Down"
 
-    # game/screens.rpy:1105
+    # screens.rpy:1060
     old "Rolls forward to later dialogue."
     new "Idzie do nastepnego dialogu"
 
-    # game/screens.rpy:1109
+    # screens.rpy:1064
     old "Hides the user interface."
     new "Chowa interfejs"
 
-    # game/screens.rpy:1113
+    # screens.rpy:1068
     old "Takes a screenshot."
     new "Zapisuje screena"
 
-    # game/screens.rpy:1117
+    # screens.rpy:1072
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new "Przelacza wspomaganie {a=https://www.renpy.org/l/voicing}self-voicingu{/a}"
 
-    # game/screens.rpy:1123
+    # screens.rpy:1078
     old "Left Click"
     new "LPM"
 
-    # game/screens.rpy:1127
+    # screens.rpy:1082
     old "Middle Click"
     new "SPM (Scroll)"
 
-    # game/screens.rpy:1131
+    # screens.rpy:1086
     old "Right Click"
     new "PPM"
 
-    # game/screens.rpy:1135
+    # screens.rpy:1090
     old "Mouse Wheel Up\nClick Rollback Side"
     new "SPM w gore\nKliknij Cofniecie Strony"
 
-    # game/screens.rpy:1139
+    # screens.rpy:1094
     old "Mouse Wheel Down"
     new "SPM w dol"
 
-    # game/screens.rpy:1146
+    # screens.rpy:1101
     old "Right Trigger\nA/Bottom Button"
     new "Prawy Spust\nA/Dolny Przycisk"
 
-    # game/screens.rpy:1150
+    # screens.rpy:1105
     old "Left Trigger\nLeft Shoulder"
     new "Lewy Spust\nLewe ramie"
 
-    # game/screens.rpy:1154
+    # screens.rpy:1109
     old "Right Shoulder"
     new "Prawe ramie"
 
-    # game/screens.rpy:1159
+    # screens.rpy:1113
     old "D-Pad, Sticks"
     new "Pad kierunkowy, Patyki"
 
-    # game/screens.rpy:1163
+    # screens.rpy:1117
     old "Start, Guide"
     new "Wlacz, Przewodnik"
 
-    # game/screens.rpy:1167
+    # screens.rpy:1121
     old "Y/Top Button"
     new "Y/Gorny Przycisk"
 
-    # game/screens.rpy:1170
+    # screens.rpy:1124
     old "Calibrate"
     new "Kalibrowanie"
 
-    # game/screens.rpy:1235
+    # screens.rpy:1189
     old "Yes"
     new "Tak"
 
-    # game/screens.rpy:1236
+    # screens.rpy:1190
     old "No"
     new "Nie"
 
-    # game/screens.rpy:1282
+    # screens.rpy:1236
     old "Skipping"
     new "Pomijanie"
 
-    # game/screens.rpy:1505
+    # screens.rpy:1457
     old "Menu"
     new "Menu"
 
