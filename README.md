@@ -11,7 +11,8 @@ I don't know
 - Bad ENDING using DDLC's END screen and audio (s_kill_early)
 
 # How to translate?
-[![Watch the video](http://img.youtube.com/vi/NX7OIKE0T7w/0.jpg)](http://www.youtube.com/watch?v=NX7OIKE0T7w "How to translate the game")
+[![Aoba's tutorial](http://img.youtube.com/vi/rJXUYD5hi9g/0.jpg)](https://www.youtube.com/watch?v=rJXUYD5hi9g "How to translate the game")
+[![Sezam's tutorial](http://img.youtube.com/vi/NX7OIKE0T7w/0.jpg)](http://www.youtube.com/watch?v=NX7OIKE0T7w "How to translate the game")
 
 # Known issues
 - Game will freeze when the DDLC easter egg is in the code, currently... it is disabled
