@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2021-05-12 05:29
+﻿# TODO: Translation updated at 2021-04-26 00:41
 
-translate indof strings:
+translate indo strings:
 
     # game/options.rpy:16
     old "Ainu Stories"
-    new ""
+    new "Ainu Stories"
 
     # game/options.rpy:33
     old "\nWhy did I made this you ask?\nI don't know either."
-    new ""
+    new "\nKenapa aku membuatmu ini pertanyaanmu?\nAku juga gatau awkawkkaw."
 
