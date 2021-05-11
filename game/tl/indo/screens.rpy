@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-12 05:29
 
-translate indof strings:
+translate indo strings:
 
     # game/screens.rpy:256
     old "Back"
