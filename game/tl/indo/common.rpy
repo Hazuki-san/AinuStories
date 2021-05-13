@@ -816,317 +816,317 @@ translate indo strings:
 
     # renpy/common/00updater.rpy:677
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Antara project ini tidak support update, atau status update file dihapus."
 
     # renpy/common/00updater.rpy:691
     old "This account does not have permission to perform an update."
-    new ""
+    new "Akun ini tidak punya ijin untuk mengupdate."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to write the update log."
-    new ""
+    new "Akun ini tidak punya ijin untuk menulis log update."
 
     # renpy/common/00updater.rpy:721
     old "Could not verify update signature."
-    new ""
+    new "Tidak bisa memverifikasi update. "
 
     # renpy/common/00updater.rpy:992
     old "The update file was not downloaded."
-    new ""
+    new "Update file tidak terdownload."
 
     # renpy/common/00updater.rpy:1010
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "File update tidak memiliki intisari yang tepat - Mungkin rusak."
 
     # renpy/common/00updater.rpy:1064
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Selagi membongkar {}, Tipe tidak diketahui {}."
 
     # renpy/common/00updater.rpy:1430
     old "Updater"
-    new ""
+    new "Pembaharu"
 
     # renpy/common/00updater.rpy:1437
     old "An error has occured:"
-    new ""
+    new "Terjadi Kesalahan"
 
     # renpy/common/00updater.rpy:1439
     old "Checking for updates."
-    new ""
+    new "Memeriksa update."
 
     # renpy/common/00updater.rpy:1441
     old "This program is up to date."
-    new ""
+    new "Program ini terbaru."
 
     # renpy/common/00updater.rpy:1443
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] tersedia. Apakah anda ingin menginstallnya?"
 
     # renpy/common/00updater.rpy:1445
     old "Preparing to download the updates."
-    new ""
+    new "Menyiapkan download update."
 
     # renpy/common/00updater.rpy:1447
     old "Downloading the updates."
-    new ""
+    new "Mendownload update."
 
     # renpy/common/00updater.rpy:1449
     old "Unpacking the updates."
-    new ""
+    new "Membongkar update."
 
     # renpy/common/00updater.rpy:1451
     old "Finishing up."
-    new ""
+    new "Menyelesaikan update."
 
     # renpy/common/00updater.rpy:1453
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Update telah terinstall. Programnya akan merestart."
 
     # renpy/common/00updater.rpy:1455
     old "The updates have been installed."
-    new ""
+    new "Update telah terinstall."
 
     # renpy/common/00updater.rpy:1457
     old "The updates were cancelled."
-    new ""
+    new "Update dibatalkan."
 
     # renpy/common/00updater.rpy:1472
     old "Proceed"
-    new ""
+    new "Memproses"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Gambar [index] dari [count] dikunci."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "sebelumnya"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "setelahnya"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "slideshow"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "kembali"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderer"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Pilih Otomatis"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Paksa GL Renderer"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Paksa ANGLE Renderer"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Paksa GLES Renderer"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Paksa Gl2 Renderer"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Paksa ANGLE2 Renderer"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Paksa GLES2 Renderer"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Aktifkan (No Blocklist)"
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
-    new ""
+    new "Aktifkan"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Powersave"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Framerate"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Layar"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Perubahan akan berlaku saat program ini dijalankan lagi."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Peringatan Performa"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Komputer ini menggunakan rendering software"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Game ini membutuhkan penggunaan GL2 yang tidak dapat dijalankan."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Komputer ini mengalami masalah dalam menampilkan grafik: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Driver grafisnya mungkin kedaluwarsa atau tidak beroperasi dengan benar. Hal ini dapat menyebabkan tampilan grafik menjadi lambat atau salah."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "{a=edit:1:log.txt}log.txt{/a} file tersebut mungkin berisi informasi untuk membantu Anda menentukan apa yang salah dengan komputer Anda."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Rincian lebih lanjut tentang cara memperbaikinya dapat ditemukan di {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Lanjutkan, Tunjukkan peringatan ini lagi"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Lanjutkan, Jangan tunjukan peringatan ini lagi"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Ubah opsi render"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Pilih Gamepad untuk Kalibrasi"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Tidak ada Gamepads yang tersedia"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Mengkalibrasi [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Tekan atau gerakan '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Lewati (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Kembali (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Buka"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Membuka file traceback.txt di editor teks."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Copy BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Salin file traceback.txt ke clipboard sebagai BBcode untuk forum seperti https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Copy Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Menyalin file traceback.txt ke clipboard sebagai Markdown untuk Discord."
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Terjadi kesalahan."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new ""
+    new "Rollback"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Mencoba memutar kembali ke waktu sebelumnya, memungkinkan Anda untuk menyimpan atau memilih pilihan lain."
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
-    new ""
+    new "Abaikan"
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Abaikan pengecualian, membolehkan anda untuk melanjutkan"
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Mengabaikan pengecualian, memungkinkan Anda untuk melanjutkan. Ini sering kali menyebabkan kesalahan tambahan."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Muat Ulang"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Memuat ulang game dari disk, menyimpan dan memulihkan status game jika memungkinkan."
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Konsol"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Membuka konsol untuk memungkinkan debugging masalah."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Keluar Game"
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Penguraian skrip gagal."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Membuka file error.txt di editor teks."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Salin file error.txt ke clipboard sebagai BBcode untuk forum seperti https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Menyalin file error.txt ke clipboard sebagai Markdown untuk Discord."
 

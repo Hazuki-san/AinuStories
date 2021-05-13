@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-26 00:41
+﻿# TODO: Translation updated at 2021-05-12 05:29
 
 translate indo strings:
 
@@ -20,7 +20,7 @@ translate indo strings:
 
     # game/screens.rpy:260
     old "Save"
-    new "Sev"
+    new "Save"
 
     # game/screens.rpy:261
     old "Q.Save"
@@ -123,274 +123,310 @@ translate indo strings:
     new "KAMU"
 
     # game/screens.rpy:621
+    old "Thai translation"
+    new "Translate Thai"
+
+    # game/screens.rpy:622
+    old "Aoba Suzukaze#0900"
+    new "Aoba Suzukaze#0900"
+
+    # game/screens.rpy:626
+    old "Polski translation"
+    new "Traslate Polski"
+
+     # game/screens.rpy:627
+    old "Sezam#3428"
+    new "Sezam#3428"
+
+    # game/screens.rpy:631
+    old "nitayaah#5874"
+    new "nitayaah#5874"
+
+    # game/screens.rpy:634
+    old "Indo translation"
+    new "Translate Indd"
+
+    # game/screens.rpy:635
+    old "Adomfer#0084"
+    new "Adomfer#0084"
+
+    # game/screens.rpy:638
+    old "Russian Translation"
+    new "Transte Russia"
+
+    # game/screens.rpy:639
+    old "Spooker#5434"
+    new "Spooker#5434"
+
+    # game/screens.rpy:645
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]."
     new "Dibuat dengan {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]."
 
-    # game/screens.rpy:623
+    # game/screens.rpy:647
     old "[renpy.license!t]"
     new "[renpy.license!t]"
 
-    # game/screens.rpy:669
+    # game/screens.rpy:693
     old "Page {}"
     new "Halaman {}"
 
-    # game/screens.rpy:669
+    # game/screens.rpy:693
     old "Automatic saves"
     new "Save Otomatis"
 
-    # game/screens.rpy:669
+    # game/screens.rpy:693
     old "Quick saves"
     new "Save cepat"
 
-    # game/screens.rpy:711
+    # game/screens.rpy:735
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
-    # game/screens.rpy:711
+    # game/screens.rpy:735
     old "empty slot"
     new "slot kosong"
 
-    # game/screens.rpy:728
+    # game/screens.rpy:752
     old "<"
     new "<"
 
-    # game/screens.rpy:731
+    # game/screens.rpy:755
     old "{#auto_page}A"
     new "{#auto_page}A"
 
-    # game/screens.rpy:734
+    # game/screens.rpy:758
     old "{#quick_page}Q"
     new "{#quick_page}Q"
 
-    # game/screens.rpy:740
+    # game/screens.rpy:764
     old ">"
     new ">"
 
-    # game/screens.rpy:797
+    # game/screens.rpy:821
     old "Display"
     new "Tampilan"
 
-    # game/screens.rpy:798
+    # game/screens.rpy:822
     old "Window"
     new "Windowed"
 
-    # game/screens.rpy:799
+    # game/screens.rpy:823
     old "Fullscreen"
     new "Fullscreen"
 
-    # game/screens.rpy:803
+    # game/screens.rpy:827
     old "Rollback Side"
-    new "Sisi Rollback"
+    new "Rollback Sisi"
 
-    # game/screens.rpy:804
+    # game/screens.rpy:828
     old "Disable"
     new "Nonaktifkan"
 
-    # game/screens.rpy:805
+    # game/screens.rpy:829
     old "Left"
     new "Kir-"
 
-    # game/screens.rpy:806
+    # game/screens.rpy:830
     old "Right"
     new "Kanan"
 
-    # game/screens.rpy:811
+    # game/screens.rpy:835
     old "Unseen Text"
     new "Teks Dilihatn't"
 
-    # game/screens.rpy:812
+    # game/screens.rpy:836
     old "After Choices"
     new "Setelah Pilihan"
 
-    # game/screens.rpy:813
+    # game/screens.rpy:837
     old "Transitions"
     new "Transisi"
 
-    # game/screens.rpy:817
+    # game/screens.rpy:841
     old "Language"
     new "Bahasa"
 
-    # game/screens.rpy:832
+    # game/screens.rpy:859
     old "Text Speed"
     new "Kecepatan Teks"
 
-    # game/screens.rpy:836
+    # game/screens.rpy:863
     old "Auto-Forward Time"
     new "Auto-Forward Waktu"
 
-    # game/screens.rpy:843
+    # game/screens.rpy:870
     old "Music Volume"
     new "Volume Musik"
 
-    # game/screens.rpy:850
+    # game/screens.rpy:877
     old "Sound Volume"
     new "Volume Suara"
 
-    # game/screens.rpy:856
+    # game/screens.rpy:883
     old "Test"
     new "Test"
 
-    # game/screens.rpy:860
+    # game/screens.rpy:887
     old "Voice Volume"
     new "Volume Suara(Orang)"
 
-    # game/screens.rpy:871
+    # game/screens.rpy:898
     old "Mute All"
     new "Senyapkan Semua"
 
-    # game/screens.rpy:989
+    # game/screens.rpy:1016
     old "The dialogue history is empty."
     new "Riwayat Dialognya kosong"
 
-    # game/screens.rpy:1059
+    # game/screens.rpy:1086
     old "Keyboard"
     new "Keyboard"
 
-    # game/screens.rpy:1060
+    # game/screens.rpy:1087
     old "Mouse"
     new "Mouse"
 
-    # game/screens.rpy:1063
+    # game/screens.rpy:1090
     old "Gamepad"
     new "Gamepad"
 
-    # game/screens.rpy:1076
+    # game/screens.rpy:1103
     old "Enter"
     new "Enter"
 
-    # game/screens.rpy:1077
+    # game/screens.rpy:1104
     old "Advances dialogue and activates the interface."
     new "Majukan dialog dan mengaktifkan tampilan."
 
-    # game/screens.rpy:1080
+    # game/screens.rpy:1107
     old "Space"
     new "Spasi"
 
-    # game/screens.rpy:1081
+    # game/screens.rpy:1108
     old "Advances dialogue without selecting choices."
     new "Memajukan dialog tanpa memilih pilihan."
 
-    # game/screens.rpy:1084
+    # game/screens.rpy:1111
     old "Arrow Keys"
     new "Tombol Panah"
 
-    # game/screens.rpy:1085
+    # game/screens.rpy:1112
     old "Navigate the interface."
     new "Menavigasikan tampilan"
 
-    # game/screens.rpy:1088
+    # game/screens.rpy:1115
     old "Escape"
     new "Escape"
 
-    # game/screens.rpy:1089
+    # game/screens.rpy:1116
     old "Accesses the game menu."
     new "Mengakses menu game"
 
-    # game/screens.rpy:1092
+    # game/screens.rpy:1119
     old "Ctrl"
     new "Ctrl"
 
-    # game/screens.rpy:1093
+    # game/screens.rpy:1120
     old "Skips dialogue while held down."
     new "Melewati dialog ketika ditekan"
 
-    # game/screens.rpy:1096
+    # game/screens.rpy:1123
     old "Tab"
     new "Tab"
 
-    # game/screens.rpy:1097
+    # game/screens.rpy:1124
     old "Toggles dialogue skipping."
     new "Menyalakan melewati dialog"
 
-    # game/screens.rpy:1100
+    # game/screens.rpy:1127
     old "Page Up"
     new "Page Up"
 
-    # game/screens.rpy:1101
+    # game/screens.rpy:1128
     old "Rolls back to earlier dialogue."
     new "Kembali ke dialog sebelumnya"
 
-    # game/screens.rpy:1104
+    # game/screens.rpy:1131
     old "Page Down"
     new "Page Down"
 
-    # game/screens.rpy:1105
+    # game/screens.rpy:1132
     old "Rolls forward to later dialogue."
     new "Maju ke dialog selanjutnya"
 
-    # game/screens.rpy:1109
+    # game/screens.rpy:1136
     old "Hides the user interface."
     new "Menyembunyikan tampilan pengguna"
 
-    # game/screens.rpy:1113
+    # game/screens.rpy:1140
     old "Takes a screenshot."
     new "Mengambil screenshot"
 
-    # game/screens.rpy:1117
+    # game/screens.rpy:1144
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new "Menyalakan suara {a=https://www.renpy.org/l/voicing}mandiri{/a}"
 
-    # game/screens.rpy:1123
+    # game/screens.rpy:1150
     old "Left Click"
     new "Klik Kir-"
 
-    # game/screens.rpy:1127
+    # game/screens.rpy:1154
     old "Middle Click"
     new "Klik Tengah"
 
-    # game/screens.rpy:1131
+    # game/screens.rpy:1158
     old "Right Click"
     new "Klik Kanan"
 
-    # game/screens.rpy:1135
+    # game/screens.rpy:1162
     old "Mouse Wheel Up\nClick Rollback Side"
     new "Scroll Atas\nClick Sisi Rollback"
 
-    # game/screens.rpy:1139
+    # game/screens.rpy:1166
     old "Mouse Wheel Down"
     new "Scroll Bawah"
 
-    # game/screens.rpy:1146
+    # game/screens.rpy:1173
     old "Right Trigger\nA/Bottom Button"
     new "Right Trigger\nA/Bottom Button"
 
-    # game/screens.rpy:1150
+    # game/screens.rpy:1177
     old "Left Trigger\nLeft Shoulder"
     new "Left Trigger\nLeft Shoulder"
 
-    # game/screens.rpy:1154
+    # game/screens.rpy:1181
     old "Right Shoulder"
-    new "Right Shoulde"
+    new "Right Shoulder"
 
-    # game/screens.rpy:1159
+    # game/screens.rpy:1186
     old "D-Pad, Sticks"
     new "D-Pad, Sticks"
 
-    # game/screens.rpy:1163
+    # game/screens.rpy:1190
     old "Start, Guide"
     new "Start, Guide"
 
-    # game/screens.rpy:1167
+    # game/screens.rpy:1194
     old "Y/Top Button"
     new "Y/Top Button"
 
-    # game/screens.rpy:1170
+    # game/screens.rpy:1197
     old "Calibrate"
     new "Kalibrasi"
 
-    # game/screens.rpy:1235
+    # game/screens.rpy:1262
     old "Yes"
     new "Iyh"
 
-    # game/screens.rpy:1236
+    # game/screens.rpy:1263
     old "No"
     new "Gak"
 
-    # game/screens.rpy:1282
+    # game/screens.rpy:1309
     old "Skipping"
     new "Melewati"
 
-    # game/screens.rpy:1505
+    # game/screens.rpy:1532
     old "Menu"
     new "Menu"
 
