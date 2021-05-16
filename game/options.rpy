@@ -212,6 +212,7 @@ init python:
     build.classify('**.rpy', None)
     build.classify("**.rpym", None)
     build.classify('/game/cache/*.*', None)
+    build.classify('/game/voice/aoba-old/*.*', None)
 
     ## Files matching documentation patterns are duplicated in a mac app build,
     ## so they appear in both the app and the zip file.
