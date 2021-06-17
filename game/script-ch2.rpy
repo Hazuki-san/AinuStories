@@ -1,6 +1,25 @@
 
 label ep2:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Playing EP2',
+                'state': 'Family',
+                'large_image_key': 'the_crew',
+            }
+        )
 
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
     scene black
 
     with fade
