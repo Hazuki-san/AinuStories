@@ -1,5 +1,25 @@
 label ep1:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Playing EP1',
+                'state': 'Simon joins Ainu!',
+                'large_image_key': 'simon_kekw',
+            }
+        )
 
+
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
     scene black
 
     with fade
