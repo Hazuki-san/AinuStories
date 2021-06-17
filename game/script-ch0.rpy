@@ -1,6 +1,25 @@
 # The game starts here.
 label start:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Choosing...',
+                'state': 'Episode List',
+                'large_image_key': 'epchoice',
+            }
+        )
 
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -20,6 +39,7 @@ label start:
         "From the Beginning":
             window hide
             pause 1
+            jump ep0
         "Simon joins Ainu!":
             window hide
             jump ep1
@@ -29,6 +49,26 @@ label start:
         "Coffee":
             window hide
             jump ep3
+label ep0:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('601663968288833536', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Playing EP0',
+                'state': 'From the Beginning',
+                'large_image_key': 'beginning',
+            }
+        )
+
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
 
     scene black
 
@@ -638,6 +678,28 @@ label start:
     return
 
 label ch0_kill:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Wait....',
+                'state': 'What the hell is this!?',
+                'large_image_key': 'kms',
+            }
+        )
+
+
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
+    $ renpy.block_rollback()    
     "..."
     "..."
     "W-What..."
