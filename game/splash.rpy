@@ -1,3 +1,20 @@
+init python:
+    import discord_rpc
+    import time
+
+    def readyCallback(current_user):
+        print('Our user: {}'.format(current_user))
+
+    def disconnectedCallback(codeno, codemsg):
+        print('Disconnected from Discord rich presence RPC. Code {}: {}'.format(
+            codeno, codemsg
+        ))
+
+    def errorCallback(errno, errmsg):
+        print('An error occurred! Error {}: {}'.format(
+            errno, errmsg
+        ))
+        
 label language_chooser: 
     scene black 
     menu: 
