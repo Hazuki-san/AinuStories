@@ -353,7 +353,26 @@ style navigation_button_text:
 ## https://www.renpy.org/doc/html/screen_special.html#main-menu
 
 screen main_menu():
-
+    python:
+        # Note: 'event_name': callback
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Main Menu',
+                'state': 'We fucking love Aoba <3',
+                'large_image_key': 'ainumenu'
+            }
+        )
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
     ## This ensures that any other menu screen is replaced.
     tag menu
 

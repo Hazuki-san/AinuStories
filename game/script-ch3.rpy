@@ -1,5 +1,24 @@
 label ep3:
+    python:
+        callbacks = {
+            'ready': readyCallback,
+            'disconnected': disconnectedCallback,
+            'error': errorCallback,
+        }
+        discord_rpc.initialize('854617207304224808', callbacks=callbacks, log=False)
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        discord_rpc.update_presence(
+            **{
+                'details': 'Playing EP3',
+                'state': 'Coffee',
+                'large_image_key': 'coffee',
+            }
+        )
 
+        discord_rpc.update_connection()
+        discord_rpc.run_callbacks()
+        
     scene black
 
     with fade
