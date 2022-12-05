@@ -1,4 +1,4 @@
-# AinuStories
+# AinuStories [Download](https://github.com/Hazuki-san/AinuStories/releases)
 A shitass game, using RenPy engine.
 
 # Why?
